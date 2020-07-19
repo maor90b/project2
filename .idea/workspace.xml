@@ -9,10 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631e8960-1f82-4234-ad51-5b55008e41d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7_orly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים 2/Set_Ex_8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex_7.3_orly.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +66,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/טיפוסי נתונים 2/Set_Ex_8.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex_7.3_orly.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -97,27 +114,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/מחרוזות/Dictionary_Ex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/מחרוזות/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <marker date="1594902022328" expanded="true" signature="2:94" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -135,8 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/תרגילי לולאות 2/תרגיל1.py" />
-        <option value="$PROJECT_DIR$/תרגילי לולאות 2/תרגיל.py" />
         <option value="$PROJECT_DIR$/תרגילי לולאות 2/תרגיל 3.py" />
         <option value="$PROJECT_DIR$/תרגילי לולאות 3/,rdhk 1.py" />
         <option value="$PROJECT_DIR$/תרגילי לולאות 3/תרגיל 1.py" />
@@ -186,12 +180,14 @@
         <option value="$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py" />
         <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7_orly.py" />
         <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" />
+        <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex_7.3_orly.py" />
+        <option value="$PROJECT_DIR$/טיפוסי נתונים 2/Set_Ex_8.1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="433" />
-    <option name="y" value="388" />
+    <option name="x" value="430" />
+    <option name="y" value="515" />
     <option name="width" value="1104" />
     <option name="height" value="595" />
   </component>
@@ -212,16 +208,6 @@
               <item name="project1" type="b2602c69:ProjectViewProjectNode" />
               <item name="project1" type="462c0819:PsiDirectoryNode" />
               <item name="טיפוסי נתונים" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="טיפוסי נתונים 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="מחרוזות" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dict_7.8">
+  <component name="RunManager" selected="Python.Set_Ex_8.1">
     <configuration name="לולאות בסיסי תרגיל 10" type="PythonConfigurationType" factoryName="Python">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -974,27 +960,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dict_Ex7.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/טיפוסי נתונים" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex7.4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Dict_Ex_7.5" type="PythonConfigurationType" factoryName="Python">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1092,6 +1057,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/מחרוזות/Set_Ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Set_Ex_8.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/טיפוסי נתונים 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/טיפוסי נתונים 2/Set_Ex_8.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1207,11 +1193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Set_Ex_8.1" />
         <item itemvalue="Python.Dict_7.8" />
         <item itemvalue="Python.Time_Ex" />
         <item itemvalue="Python.Dict_7.7" />
         <item itemvalue="Python.Dict_Ex_7.6" />
-        <item itemvalue="Python.Dict_Ex7.4" />
       </list>
     </recent_temporary>
   </component>
@@ -1247,11 +1233,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595162922564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hey dude 1">
+      <created>1595165200142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595165200142</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="433" y="388" width="1104" height="595" extended-state="0" />
+    <frame x="430" y="515" width="1104" height="595" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38180113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1333,20 +1326,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/מחרוזות/תרגיל 5.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/מחרוזות/תרגיל 5.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/תרגול מבחן.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1625,6 +1604,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex_7.3_orly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/טיפוסי נתונים 2/Set_Ex_8.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
