@@ -8,38 +8,11 @@
     <bookmark url="file://$PROJECT_DIR$/תרגיל מבחן 2.py" line="14" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="631e8960-1f82-4234-ad51-5b55008e41d3" name="Default Changelist" comment="hey dude 1">
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים 2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex7.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex_7.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dictionary_Ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/ID_Ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מבחן תרגיל 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/4/מצגת לולאות תרגיל 4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/4/מצגת לולאות תרגיל 4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/4/מצגת תרגיל לולאות 4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/Dictionary_Ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/Set_Ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/מחרוזות מצגת תרגיל 5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/מצגת תרגיל 5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/תרגיל 5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/תרגיל 5.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/תרגיל 5.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/מחרוזות/תרגיל 5.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/תרגול מבחן.py" afterDir="false" />
+    <list default="true" id="631e8960-1f82-4234-ad51-5b55008e41d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7_orly.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package1/לולאות/לולאות 5/תרגיל 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/package1/לולאות/לולאות 5/תרגיל 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package1/תרגיל 7 תנאים.py" beforeDir="false" afterPath="$PROJECT_DIR$/package1/תרגיל 7 תנאים.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/מחרוזות/4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/מחרוזות/Ex_Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/מחרוזות/Ex_Tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/מחרוזות/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/מחרוזות/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/תרגיל מבחן 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/תרגיל מבחן 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,15 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.3.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,18 +67,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7_orly.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -155,8 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package1/לולאות/תרגיל9.py" />
-        <option value="$PROJECT_DIR$/package1/לולאות/לולאות בסיסי תרגיל 10.py" />
         <option value="$PROJECT_DIR$/תרגילי לולאות 2/תרגיל1.py" />
         <option value="$PROJECT_DIR$/תרגילי לולאות 2/תרגיל.py" />
         <option value="$PROJECT_DIR$/תרגילי לולאות 2/תרגיל 3.py" />
@@ -204,14 +182,16 @@
         <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex_7.5.py" />
         <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_Ex_7.6.py" />
         <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7.py" />
-        <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" />
         <option value="$PROJECT_DIR$/טיפוסי נתונים 2/Tןצק_קס.py" />
+        <option value="$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py" />
+        <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7_orly.py" />
+        <option value="$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="258" />
-    <option name="y" value="474" />
+    <option name="x" value="433" />
+    <option name="y" value="388" />
     <option name="width" value="1104" />
     <option name="height" value="595" />
   </component>
@@ -227,6 +207,11 @@
             <path>
               <item name="project1" type="b2602c69:ProjectViewProjectNode" />
               <item name="project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+              <item name="טיפוסי נתונים" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project1" type="b2602c69:ProjectViewProjectNode" />
@@ -295,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Time_Ex">
+  <component name="RunManager" selected="Python.Dict_7.8">
     <configuration name="לולאות בסיסי תרגיל 10" type="PythonConfigurationType" factoryName="Python">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1222,8 +1207,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Time_Ex" />
         <item itemvalue="Python.Dict_7.8" />
+        <item itemvalue="Python.Time_Ex" />
         <item itemvalue="Python.Dict_7.7" />
         <item itemvalue="Python.Dict_Ex_7.6" />
         <item itemvalue="Python.Dict_Ex7.4" />
@@ -1255,19 +1240,25 @@
       <option name="project" value="LOCAL" />
       <updated>1594896809859</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hey dude 1">
+      <created>1595162922564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595162922564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="474" width="1104" height="595" extended-state="0" />
-    <editor active="true" />
+    <frame x="433" y="388" width="1104" height="595" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38180113" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38180113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31601733" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31601733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4926004" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1342,13 +1333,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/מחרוזות/תרגיל 5.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/מחרוזות/תרגיל 5.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1620,15 +1604,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py">
+    <entry file="file://$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="234">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/טיפוסי נתונים 2/Time_Ex.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.7_orly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/טיפוסי נתונים/Dict_7.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
