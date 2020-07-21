@@ -9,12 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631e8960-1f82-4234-ad51-5b55008e41d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Objects/Exercises/Ex_11.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit_Test/Example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit_Test/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects/Exercises/Ex_11.1_fi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects/Exercises/Ex_11.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/Exercises/Ex_11.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functionals/EXercices/Ex_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functionals/EXercices/Ex_10.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +21,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_6+7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_4+5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_10.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -39,26 +66,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Objects/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functionals/Example1.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects/Exercises/Ex_11.1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -70,31 +88,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Objects/Exercises/Ex_11.3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unit_Test/Example_1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/ProgramData/Anaconda3/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="309" selection-start-line="309" selection-end-line="309" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects/Exercises/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -159,21 +163,21 @@
         <option value="$PROJECT_DIR$/Functionals/EXercices/Ex_6.py" />
         <option value="$PROJECT_DIR$/Functionals/EXercices/Ex_8.py" />
         <option value="$PROJECT_DIR$/Functionals/EXercices/Ex_9.py" />
-        <option value="$PROJECT_DIR$/Functionals/EXercices/Ex_10.py" />
         <option value="$PROJECT_DIR$/Objects/Example_1.py" />
         <option value="$PROJECT_DIR$/Objects/Exercises/Ex_11.1_fi.py" />
         <option value="$PROJECT_DIR$/Objects/Exercises/Ex_11.1.py" />
         <option value="$PROJECT_DIR$/Unit_Test/Example_1.py" />
         <option value="$PROJECT_DIR$/Objects/Exercises/Ex_11.2.py" />
         <option value="$PROJECT_DIR$/Objects/Exercises/Ex_11.3.py" />
+        <option value="$PROJECT_DIR$/Functionals/EXercices/Ex_10.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="445" />
-    <option name="y" value="443" />
+    <option name="x" value="385" />
+    <option name="y" value="182" />
     <option name="width" value="998" />
-    <option name="height" value="1030" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -193,13 +197,13 @@
             <path>
               <item name="project1" type="b2602c69:ProjectViewProjectNode" />
               <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="Objects" type="462c0819:PsiDirectoryNode" />
+              <item name="Functionals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project1" type="b2602c69:ProjectViewProjectNode" />
               <item name="project1" type="462c0819:PsiDirectoryNode" />
-              <item name="Objects" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Functionals" type="462c0819:PsiDirectoryNode" />
+              <item name="EXercices" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project1" type="b2602c69:ProjectViewProjectNode" />
@@ -265,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex_11.3">
+  <component name="RunManager" selected="Python.Ex_10">
     <configuration name="לולאות בסיסי תרגיל 10" type="PythonConfigurationType" factoryName="Python">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -980,6 +984,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Ex_10" type="PythonConfigurationType" factoryName="Python">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functionals/EXercices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functionals/EXercices/Ex_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Ex_11.1" type="PythonConfigurationType" factoryName="Python">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1001,7 +1026,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex_11.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ex_11.2" type="PythonConfigurationType" factoryName="Python">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1340,7 +1365,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Ex_11.3" />
-        <item itemvalue="Python.Ex_11.2" />
       </list>
     </recent_temporary>
   </component>
@@ -1397,11 +1421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595254061408</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hey dude 1">
+      <created>1595325248408</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595325248408</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="445" y="443" width="998" height="1030" extended-state="0" />
+    <frame x="385" y="182" width="998" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3875" />
@@ -1409,7 +1440,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30992195" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41063514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49234137" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1676,38 +1707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_4+5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functionals/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_6+7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_10.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Functionals/Example1.2.py">
@@ -1763,8 +1763,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Objects/Exercises/Ex_11.3.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_6+7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_4+5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functionals/EXercices/Ex_10.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
